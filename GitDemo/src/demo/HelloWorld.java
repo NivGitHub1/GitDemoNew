@@ -17,7 +17,7 @@ public class HelloWorld {
 		System.out.println("One more sample line");
 		System.out.println("Test1");
 		System.out.println("Test2");
-		System.out.println("***End***");
+		System.out.println("***End - Have a nice day!***");
 
 	}
 
