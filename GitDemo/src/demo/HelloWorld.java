@@ -15,6 +15,8 @@ public class HelloWorld {
 			System.out.println("Line-"+i);
 		}
 		System.out.println("One more sample line");
+		System.out.println("Test1");
+		System.out.println("Test2");
 		System.out.println("***End***");
 
 	}
