@@ -32,7 +32,7 @@ public class CreateDemoFile {
 		bw.newLine();
 		bw.write("Line5");
 		bw.newLine();
-		bw.write("***Last line***");
+		bw.write("***Last line - Have a nice day!***");
 		bw.close();
 		
 		//Read file
@@ -46,7 +46,7 @@ public class CreateDemoFile {
 				list.add(s);
 			}
 		//Print ArrayList
-			System.out.println("No. of lines -"+list.size());
+			System.out.println("No. of lines - "+list.size());
 			for (int i = 0; i<list.size(); i++){
 				System.out.println(list.get(i));
 			}
